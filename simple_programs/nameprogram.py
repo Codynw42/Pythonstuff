@@ -1,3 +1,4 @@
-name = input("what name")
-print("hello" + name)
+name = input("what name ")
+print("hello" + ' ' + name)
+
 
