@@ -1,0 +1,28 @@
+======================================================================
+                 UFC UPCOMING FIGHTS
+            Generated: April 16, 2026 at 07:33 PM
+======================================================================
+  Total Events Found: 2
+======================================================================
+
+  EVENT #1
+  ──────────────────────────────────────────────────────────────────
+  Name     : UFC Fight Night: Burns vs. Malott
+  More Info: https://www.tapology.com/fightcenter/events/139670-ufc-fight-night
+
+  Fight card details not yet available.
+
+  ══════════════════════════════════════════════════════════════════
+
+  EVENT #2
+  ──────────────────────────────────────────────────────────────────
+  Name     : UFC Fight Night: Sterling vs. Zalal
+  More Info: https://www.tapology.com/fightcenter/events/140114-ufc-fight-night
+
+  Fight card details not yet available.
+
+  ══════════════════════════════════════════════════════════════════
+
+  Data sourced from: Tapology, ESPN MMA, Sherdog
+  Always verify times at ufc.com or your local listings.
+======================================================================
